@@ -1,5 +1,5 @@
 # Tokenomics Health Scoring Engine
-A Multi-Pillar Decision System for Evaluating Crypto Token Sustainabilityb
+A Multi-Pillar Decision System for Evaluating Crypto Token Sustainability
 
 
 ## Project Overview
