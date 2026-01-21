@@ -16,31 +16,31 @@
 
 2. Market data pull:
 
-- Snapshot (current)
+ - Snapshot (current)
 
-- 365-day daily market history
+ - 365-day daily market history
 
 3. Distribution features pull (Etherscan):
 
-- Sample of token transfers
+ - Sample of token transfers
 
-- Unique sender/receiver counts
+ - Unique sender/receiver counts
 
-- Concentration metrics (top sender/receiver share)
+ - Concentration metrics (top sender/receiver share)
 
 4. Pillar scoring:
 
-- Market Health Score
+ - Market Health Score
 
-- Distribution Health Score
+ - Distribution Health Score
 
 - Supply Sustainability Score
 
 5. Final health score engine:
 
-- Weighted combination into tokenomics_health_score
+ - Weighted combination into tokenomics_health_score
 
-- Converted into grades (A, B, C, D)
+ - Converted into grades (A, B, C, D)
 
 6. Output saved to data/processed/tokenomics_health_engine_output.csv
 
