@@ -120,7 +120,6 @@ The project generates several structured datasets:
 - supply_sustainability_scores.csv
 - tokenomics_health_engine_output.csv (final combined output)
 
-
 ## Limitations
 - Distribution analysis is activity-based, not balance-based
 - Unlock schedules and emissions are not manually annotated
