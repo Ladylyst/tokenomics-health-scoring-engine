@@ -41,7 +41,7 @@ No proprietary or paid data sources are used.
 This project follows a structured, multi-step analytics pipeline to evaluate
 tokenomics sustainability using market data and on-chain signals.
 **Read the full methodology here**
-[METHODOLOGY.md](METHODOLOGY.md)
+[Methodology.md](Methodology.md)
 
 The engine is built around three independent analytical pillars.
 
