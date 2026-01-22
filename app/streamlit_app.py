@@ -4,9 +4,14 @@ import plotly.graph_objects as go
 
 st.set_page_config(page_title="Tokenomics Health Engine", layout="centered")
 
+from pathlib import Path
+
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/processed/tokenomics_health_engine_output.csv")
+    # Resolve project root (one level above /app)
+    root = Path(__file__).resolve().parents[1]
+    csv_path = root / "data" / "processed" / "tokenomics_health_engine_output.csv"
+    return pd.read_csv(csv_path)
 
 df = load_data()
 
