@@ -1,6 +1,25 @@
 # Tokenomics Health Scoring Engine
 A Multi-Pillar Decision System for Evaluating Crypto Token Sustainability
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-red)](https://tokenomics-health-scoring-engine.streamlit.app/)
+
+
+## Live Interactive Dashboard
+
+Explore the Tokenomics Health Scoring Engine through an interactive Streamlit application.
+
+ **Launch the live app:**  
+[Tokenomics Health Engine – Streamlit Dashboard](https://tokenomics-health-scoring-engine.streamlit.app/)
+
+### What you can do in the app
+- Select any token and view its final Tokenomics Health Score and grade
+- Inspect pillar-level scores for:
+  - Market Health
+  - On-chain Distribution Health
+  - Supply Sustainability
+- Understand how structural token design differs across tokens
+- Explore scores based on public, verifiable data (not price predictions)
+
 
 ## Project Overview
 This project builds an automated Tokenomics Health Scoring Engine designed to help founders, investors, and analysts evaluate whether a crypto token’s design is structurally sustainable.
